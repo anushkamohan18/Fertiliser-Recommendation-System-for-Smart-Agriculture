@@ -50,6 +50,7 @@ Fertiliser-Recommendation-System-for-Smart-Agriculture/
 ├── table1.png                            # Summary or reference table
 ├── Smart_Fertilizer_System_Presentation.pdf  # Project presentation slides
 ├── README.md                             # Project documentation (this file)
+├── Requirement.txt            
 ```
 
 ---
