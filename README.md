@@ -68,7 +68,7 @@ This project is a Fertiliser Recommendation System designed for smart agricultur
 
 ## 📥 Usage
 
-- Open the main notebook in the `notebooks/` directory.
+- Open the main notebook.
 - Follow the instructions to load data, train the model (if required), and generate fertiliser recommendations.
 - Modify input parameters to see recommendations for different scenarios.
 
