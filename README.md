@@ -79,7 +79,7 @@ git clone https://github.com/anushkamohan18/Fertiliser-Recommendation-System-for
 cd Fertiliser-Recommendation-System-for-Smart-Agriculture
 
 # Install required dependencies
-pip install -r requirements.txt
+pip install -r Requirement.txt
 
 # Run the notebook
 jupyter notebook
